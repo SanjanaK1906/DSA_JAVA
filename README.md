@@ -1,19 +1,19 @@
 Implementation of :-
   1. ArrayList
      
-  3. Linked List-
+  2. Linked List-
      
     a) Singly Linked list
     b) Doubly Linked list
     c) Circular Linked list
     d) Doubly Circular Linked list
    
-  5. Stack-
+  3. Stack-
      
     a) Stack using array
     b) Stack using Linked list
 
-  6. Queue -
+  4. Queue -
      
     a) Queue using array
     b) Queue using Linked List
@@ -21,5 +21,5 @@ Implementation of :-
     d) Circular Queue
     e) Double ended Queue
 
-  8. Matrix programs(assignments/array_assignment)
+  5. Matrix programs(assignments/array_assignment)
   

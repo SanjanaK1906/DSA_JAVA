@@ -2,12 +2,13 @@ Implementation of :-
   1. ArrayList
      
   3. Linked List-
+     
     a) Singly Linked list
     b) Doubly Linked list
     c) Circular Linked list
     d) Doubly Circular Linked list
    
-  4. Stack-
+  5. Stack-
      
     a) Stack using array
     b) Stack using Linked list

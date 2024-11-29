@@ -22,4 +22,16 @@ Implementation of :-
     e) Double ended Queue
 
   5. Matrix programs(assignments/array_assignment)
+    
+  6.  Recursion -
+     
+    a) ArmstrongNumber
+    b) Factorial 
+    c) Fibonacci series
+    d) Palindrome
+    e) Palindrome - Generic
+    f) print all digits of a number and their sum.
+    g) reverse of a number. (method1)
+    h) reverse of a number. (method2)
+
   

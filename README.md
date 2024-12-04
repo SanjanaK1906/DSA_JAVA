@@ -34,4 +34,8 @@ Implementation of :-
     g) reverse of a number. (method1)
     h) reverse of a number. (method2)
 
+  7. Searching
+      a) Linear/sequential Search
+      b) Binary Search
+
   

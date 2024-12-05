@@ -35,7 +35,14 @@ Implementation of :-
     h) reverse of a number. (method2)
 
   7. Searching
-      a) Linear/sequential Search
-      b) Binary Search
+     a) Linear/sequential Search
+     b) Binary Search
+     
+  9. Sorting
+     a)Selection Sort
+     b)Merge Sort
+     c)Insertion Sort
+     d)Bubble Sort
+     e)Quick Sort
 
   

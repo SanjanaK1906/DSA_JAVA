@@ -12,17 +12,21 @@
 //Output: 2
 //Explanation: Only 1 is present so the missing element is 2
 
+// User function Template for Java
 class Solution {
     int missingNumber(int arr[]) {
         int len= arr.length;
         Arrays.sort(arr);
         int n=0;
-        for(int i=1; i<=len;i++){
+            for(int i=1; i<=len;i++){
             if(i!=arr[i-1]){
                 n= i;
                 break;
+            }else{
+                n=len+1;
             }
         }
+        
         return n;
     }
 }

@@ -16,10 +16,10 @@ class Solution {
         List<Integer> li = new ArrayList<>();
         HashSet<Integer> h= new HashSet();
         
-        int flag =0;
+        //int flag =0;
         for(int x:arr){
             if(h.contains(x)){
-                flag=1;
+                //flag=1;
                 li.add(x);
                 continue;
             }
